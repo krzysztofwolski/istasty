@@ -1,0 +1,22 @@
+{
+  "name": "istasty",
+  "version": "1.0.0",
+  "description": "Returns true if number is tasty. Package just for CI tests, dont be tempted to use on production.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krzysztofwolski/istasty.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "krzysztofwolski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krzysztofwolski/istasty/issues"
+  },
+  "homepage": "https://github.com/krzysztofwolski/istasty#readme"
+}
