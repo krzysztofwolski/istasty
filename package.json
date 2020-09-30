@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/krzysztofwolski/istasty#readme",
   "devDependencies": {
-    "semantic-release": "^17.1.2"
+    "semantic-release": "^17.1.2",
+    "jest": "^26.4.2"
   }
 }
