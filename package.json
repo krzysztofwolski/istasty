@@ -1,14 +1,15 @@
 {
   "name": "istasty",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "Returns true if number is tasty. Package just for CI tests, dont be tempted to use on production.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/krzysztofwolski/istasty.git"
+    "url": "https://github.com/krzysztofwolski/istasty.git"
   },
   "keywords": [
     "test"
