@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/krzysztofwolski/istasty/issues"
   },
-  "homepage": "https://github.com/krzysztofwolski/istasty#readme"
+  "homepage": "https://github.com/krzysztofwolski/istasty#readme",
+  "devDependencies": {
+    "semantic-release": "^17.1.2"
+  }
 }
